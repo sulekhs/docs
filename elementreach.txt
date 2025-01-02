@@ -1,0 +1,39 @@
+
+document.querySelector('header > .header--content > .header--logo.logo > a.ga-header-logo > svg.logo-icon > svg').innerHTML
+
+document.querySelector('header > .header--content > .header--logo.logo > a.ga-header-logo > svg.logo-type').innerHTML
+
+document.querySelector('header > .header--content > .header--buttons > a.sign-in.ga-header-sign-in > span').innerHTML
+
+document.querySelector('main#maincontent > section.section.hero > header.hero--header > h2').innerHTML
+
+document.querySelector('main#maincontent > section.section.hero > header.hero--header > p').innerHTML
+
+document.querySelector('header > .header--content > .header--buttons > a.cta.ga-header-cta > span').innerHTML
+
+document.querySelector('main#maincontent > section.section.free-domain.active > header > div > h2').innerHTML
+
+document.querySelector('main#maincontent > section.section.free-domain.active > header > div > p').innerHTML
+
+document.querySelector('main#maincontent > section.section.earn-money.active > header > div > h2').innerHTML
+
+document.querySelector('main#maincontent > section.section.earn-money.active > header > div > p').innerHTML
+
+document.querySelector('main#maincontent > section.section.know-your-audience.active > header > div > h2').innerHTML
+
+document.querySelector('main#maincontent > section.section.know-your-audience.active > header > div > p').innerHTML
+
+document.querySelector('footer.footer > section > ul > li:first-child > h3').innerHTML
+
+document.querySelector('footer.footer > section > ul > li:nth-child(2) > a').innerHTML
+
+document.querySelector('footer.footer > section > ul:nth-child(2) > li > h3').innerHTML
+
+document.querySelector('footer.footer > section > ul:nth-child(2) > li:nth-child(2) > a').innerHTML
+
+document.querySelector('footer.footer > section > ul:nth-child(3) > li:nth-child(1) > h3').innerHTML
+
+document.querySelector('footer.footer > section > ul:nth-child(3) > li:nth-child(2) > a').innerHTML
+
+document.querySelector('footer.footer > section > ul:nth-child(3) > li:nth-child(3) > a').innerHTML
+

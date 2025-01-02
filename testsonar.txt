@@ -1,0 +1,5 @@
+"C:\Users\pritami\Downloads\SonarScannerForMSBuild\SonarScannerForMSBuild\SonarScanner.MSBuild.exe" begin /k:"26201_pritami_project" /n:"26201_pritami_project" /v:"1.1" /d:sonar.login="5c682de819b057b17b1f94936ee37371bef92c7f"
+
+
+
+"E:\Sonar-qube\SonarScannerForMSBuild\SonarScanner.MSBuild.exe" begin /k:"fetmini_project" /n:"fetmini_project" /v:"1.1" /d:sonar.login="a86cfd1c7d6ca18b9a6ad3b4712cfd45f315b65b"
