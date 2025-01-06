@@ -1,0 +1,23 @@
+reactlec2 : https://cybage-my.sharepoint.com/:v:/p/rameshwarm/EVAFykUx0TtHvyxYur3OAmUBH_M1H2TbSdL03UETnzXFmQ
+reactlec1 : https://cybage-my.sharepoint.com/personal/rameshwarm_cybage_com/_layouts/15/onedrive.aspx?id=%2Fpersonal%2Frameshwarm%5Fcybage%5Fcom%2FDocuments%2FRecordings%2FFET%20Angular%2BReact%5FJan22%2D20220222%5F133459%2DMeeting%20Recording%2Emp4&parent=%2Fpersonal%2Frameshwarm%5Fcybage%5Fcom%2FDocuments%2FRecordings
+
+
+meetingabhi kree: https://teams.microsoft.com/l/meetup-join/19%3ameeting_NWE0ZTUxYmItNTQ4MC00ZGQwLWI1ZDQtNzE5NDNmMTZjOTBj%40thread.v2/0?context=%7b%22Tid%22%3a%2237709cfb-f3b2-4648-aea1-9c828a886147%22%2c%22Oid%22%3a%2280807ed4-d4df-4d3a-a6e9-5fc34e215c47%22%7d
+
+
+https://github.com/jhu-ep-coursera/fullstack-course4
+
+https://github.com/jhu-ep-coursera/fullstack-course4/blob/master/FAQ.md
+
+
+
+
+gchrome
+
+https://stackoverflow.com/questions/39372804/how-can-i-loop-through-enum-values-for-display-in-radio-buttons
+
+https://stackoverflow.com/questions/39372804/how-can-i-loop-through-enum-values-for-display-in-radio-buttons
+
+https://www.mariedrake.com/post/api-testing-using-jest-and-supertest
+
+https://stackoverflow.com/questions/16215066/how-to-pass-a-variable-to-a-regex

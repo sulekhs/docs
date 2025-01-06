@@ -1,0 +1,17 @@
+Hello All,
+
+PFB, the path to training content and assignment folders :
+
+\\Pune-share\Training_Cyb\Vinita\FrTP-Jan'22
+
+PFB, the path to recordings:
+
+\\EON-SHARE-1-1\CDAC_Frtp_April2021\Recordings FrTP-Jan'22
+
+https://www.udemy.com/course/microservices-with-node-js-and-react/learn/lecture/19119786#content
+
+https://www.diagrams.net/
+
+
+
+
